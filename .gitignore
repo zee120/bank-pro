@@ -1,0 +1,10 @@
+/build/
+/build-*/
+/out/
+/data/LoginRegister.txt
+/data/TransfersLog.txt
+*.o
+*.obj
+*.exe
+*.pdb
+.DS_Store

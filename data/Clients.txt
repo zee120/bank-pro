@@ -1,0 +1,10 @@
+Alex#//#River#//#alex@example.com#//#5550101#//#A101#//#1234#//#800.000000
+Sam#//#Lake#//#sam@example.com#//#5550102#//#A102#//#5678#//#700.000000
+Jordan#//#Reed#//#jordan@example.com#//#5550103#//#A103#//#2468#//#2500.000000
+Taylor#//#Brooks#//#taylor@example.com#//#5550104#//#A104#//#1357#//#1750.500000
+Morgan#//#Hayes#//#morgan@example.com#//#5550105#//#A105#//#4826#//#3200.000000
+Casey#//#Woods#//#casey@example.com#//#5550106#//#A106#//#7391#//#850.750000
+Riley#//#Stone#//#riley@example.com#//#5550107#//#A107#//#6254#//#4100.000000
+Jamie#//#Park#//#jamie@example.com#//#5550108#//#A108#//#9183#//#1250.250000
+Avery#//#Hill#//#avery@example.com#//#5550109#//#A109#//#3542#//#5600.000000
+Quinn#//#Vale#//#quinn@example.com#//#5550110#//#A110#//#8076#//#975.000000
